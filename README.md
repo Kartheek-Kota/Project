@@ -23,8 +23,8 @@ This project implements a facial authentication system using Django, OpenCV, and
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/pankaj7322/Facial-Authentication-django.git
-cd Facial-Authentication-django
+git clone https://github.com/Kartheek-Kota/Project.git
+cd project
 python -m venv env (optional)
 env\Scripts\activate (optional)
 pip install -r requirements.txt
