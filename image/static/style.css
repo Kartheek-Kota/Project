@@ -437,7 +437,7 @@ label {
 	max-width: 450px;
 	position: absolute;
 	left:50%;
-	top:75%;
+	top:60%;
 	transform: translate(-50%,-50%);
 
 	/* margin:20px 0px; */

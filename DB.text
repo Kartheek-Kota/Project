@@ -1,4 +1,5 @@
 create database facial_login;
+
 use facial_login;
 
 create table register(
@@ -28,5 +29,5 @@ CREATE TABLE finger_register (
     email VARCHAR(30),
     address VARCHAR(40),
     image VARCHAR(40),
-    register VARCHAR(30),
+    register VARCHAR(30)
 );

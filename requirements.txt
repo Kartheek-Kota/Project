@@ -5,3 +5,6 @@ opencv-python
 blockchain
 pyaes
 pbkdf2
+cryptography
+pymysql
+imagehash
